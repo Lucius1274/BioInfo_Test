@@ -8,7 +8,7 @@ output:
 ---
 
 LOL
-Test 
+test Test 
 # 0. Recap of the previous Sheet
 
 In the previous Exercise Sheet we have learnt about distributions and how to use them in R. We have learned about **p-, q-, d- and r- functions**, the normal and the poisson distribution.
